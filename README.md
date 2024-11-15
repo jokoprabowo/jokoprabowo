@@ -33,9 +33,9 @@
 
 <div align="center">
   <a href="https://github.com/jokoprabowo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jokoprabowo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=jokoprabowo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
   </a>
   <a href="https://github.com/jokoprabowo/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokoprabowo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokoprabowo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
   </a>
 </div>
