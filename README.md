@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/1fe49588-8df7-4fe3-92c9-a27b5972b89c)<img src="https://github.com/user-attachments/assets/5471ffed-b9be-4315-a009-47a85ee06c33"/>
+
 <h1 align="center">Hi 👋, I'm Joko Prabowo</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3
 
