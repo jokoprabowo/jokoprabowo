@@ -1,7 +1,4 @@
-<img src="https://github.com/user-attachments/assets/5471ffed-b9be-4315-a009-47a85ee06c33"/>
-
-<h1 align="center">Hi 👋, I'm Joko Prabowo</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3
+<img src="https://github.com/user-attachments/assets/0786b9d3-7a29-49a4-b282-135830fd953f"/>
 
 <h3 align="left"></h3>
 
@@ -38,6 +35,6 @@
   <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=jokoprabowo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
   </a>
   <a href="https://github.com/jokoprabowo/convoychat">
-    <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokoprabowo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+    <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokoprabowo&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true" />
   </a>
 </div>
