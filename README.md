@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/0786b9d3-7a29-49a4-b282-135830fd953f"/>
+<!-- <img src="https://github.com/user-attachments/assets/0786b9d3-7a29-49a4-b282-135830fd953f"/> -->
+<h1 align="center">Hi there, I'm Joko Prabowo</h1>
 
 <h3 align="left"></h3>
 
